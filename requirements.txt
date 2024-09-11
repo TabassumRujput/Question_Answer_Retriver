@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf~=3.19.0
+langchain_groq
+langchain_community
